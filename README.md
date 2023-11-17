@@ -1,2 +1,4 @@
 # hello-world
-This the the repository for Week13Lab1 in CS 3377
+
+Hello,
+My name is Maheer. I am a CS student with UTD. I am hoping I'm doing this right since the layout of GitHub has changed since the pdf the Professor is using.
